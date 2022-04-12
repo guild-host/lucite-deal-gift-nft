@@ -1,0 +1,9 @@
+secrets.json
+node_modules
+artifacts
+cache
+build
+.env
+
+investors_to_batch_mint.csv
+rinkeby_investors_to_batch_mint.csv
